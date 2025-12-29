@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Pedro 👋
 
-<!--
-**PedroGonzlez/PedroGonzlez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Formación
+**Maestria en computo estadistico**  
+CENTRO DE INVESTIGACIÓN EN MATEMÁTICAS (CIMAT), unidad Monterrey.
+Titulado previsto: Enero 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Licenciado en Matemáticas Aplicadas**
+Benemérita Universidad Autónoma de Puebla  
+Titulado: Noviembre 2022
+## Habilidades
+- Estadística clasica
+- Estadistica bayesiana
+- Series de tiempo
+- Modelación matemáticas
+- Machine Learning
+- Python
+- R
+
+## Intereses
+- Ciencia de datos
+- Finanzas
